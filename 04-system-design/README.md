@@ -20,4 +20,6 @@ Start with requirements and capacity estimation; work through APIs and data mode
 
 [Foundations](../01-foundations/README.md) · [Data engineering](../09-data-engineering/README.md) · [Cloud and DevOps](../10-cloud-devops/README.md) · [Security](../11-security/README.md)
 
-Notes will be indexed here as they are added.
+## Notes
+
+- [System design and architecture: the evolutionary approach](evolutionary-system-scaling.md) — a video-based progression from a single server through horizontal scaling, shared state, database scaling, caching, asynchronous processing, and sharding.
