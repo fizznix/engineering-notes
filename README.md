@@ -35,7 +35,7 @@ These are starting points; follow links between domains as your questions requir
 - **System design:** [Foundations](01-foundations/README.md) → [System design](04-system-design/README.md) → [Data engineering](09-data-engineering/README.md), [Cloud and DevOps](10-cloud-devops/README.md), and [Security](11-security/README.md).
 - **ML and generative AI:** [Foundations](01-foundations/README.md) → [Machine learning](05-machine-learning/README.md) → [Generative AI](06-generative-ai/README.md) → [Agentic AI](07-agentic-ai/README.md).
 - **Agentic AI:** [Generative AI](06-generative-ai/README.md) → [Agentic AI](07-agentic-ai/README.md) → [System design](04-system-design/README.md) and [Security](11-security/README.md).
-- **Inference engineering:** [Foundations](01-foundations/README.md) → [Machine learning](05-machine-learning/README.md) → [Generative AI](06-generative-ai/README.md) → [Inference engineering](08-inference-engineering/README.md).
+- **Inference engineering:** [Foundations](01-foundations/README.md) → [Machine learning](05-machine-learning/README.md) → [Generative AI](06-generative-ai/README.md) → [Inference engineering learning map](08-inference-engineering/MAP.md) and [topic index](08-inference-engineering/README.md).
 
 ## Discover and connect concepts
 
