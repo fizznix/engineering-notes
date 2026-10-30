@@ -4,6 +4,10 @@
 
 Organize deliberate practice and revision across software and engineering interview subjects.
 
+## Coding interviews: data structures and algorithms
+
+Start with the [coding interview preparation hub](coding-interviews/README.md) for a practical, theory-grounded guide to recognizing problem patterns, choosing data structures, explaining correctness, practicing deliberately, and following a flexible roadmap.
+
 ## Learning sequence
 
 Build fundamentals in programming and algorithms, then practice system design and relevant specialization topics; record reasoning and revisit gaps.
@@ -19,4 +23,4 @@ Build fundamentals in programming and algorithms, then practice system design an
 
 [Programming](../02-programming/README.md) · [Data structures and algorithms](../03-data-structures-algorithms/README.md) · [System design](../04-system-design/README.md) · [Machine learning](../05-machine-learning/README.md) · [Inference engineering](../08-inference-engineering/README.md)
 
-Notes will be indexed here as they are added.
+Further interview guides will be indexed here as they are added.

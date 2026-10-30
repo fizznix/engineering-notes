@@ -17,6 +17,10 @@ Begin with complexity analysis, arrays, strings, and hashing; progress through t
 
 Algorithm explanations should cover intuition, correctness, complexity, implementation, edge cases, and tests where applicable.
 
+## Interview problem solving
+
+For a practical, interview-oriented path through these topics, see the [coding interview preparation hub](../14-interview-prep/coding-interviews/README.md). It connects data structures to algorithmic patterns, explains how to justify a solution, and includes a staged practice roadmap.
+
 ## Related domains
 
 [Programming](../02-programming/README.md) · [Foundations](../01-foundations/README.md) · [Interview preparation](../14-interview-prep/README.md) · [Projects and labs](../13-projects-labs/README.md)

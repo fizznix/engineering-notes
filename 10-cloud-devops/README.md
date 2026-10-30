@@ -15,8 +15,13 @@ Begin with cloud architecture and containers; progress through orchestration and
 - CI/CD and deployments
 - Monitoring, reliability, and cost optimization
 
+## Containerization and orchestration
+
+- [Docker, Kubernetes, and Helm learning package](containers-orchestration/README.md) — a problem-first guide to when each tool fits, how they work together, operational trade-offs, troubleshooting, and a staged hands-on project.
+- [Learning path and capstone lab](containers-orchestration/learning-path.md) — an eight-week progression with verification checkpoints and failure scenarios.
+
 ## Related domains
 
 [Foundations](../01-foundations/README.md) · [System design](../04-system-design/README.md) · [Data engineering](../09-data-engineering/README.md) · [Security](../11-security/README.md)
 
-Notes will be indexed here as they are added.
+Further cloud and DevOps notes will be indexed here as they are added.
