@@ -23,3 +23,8 @@ Start with requirements and capacity estimation; work through APIs and data mode
 ## Notes
 
 - [System design and architecture: the evolutionary approach](evolutionary-system-scaling.md) — a video-based progression from a single server through horizontal scaling, shared state, database scaling, caching, asynchronous processing, and sharding.
+- [Database design and data stores](../09-data-engineering/database-design/README.md) — modeling, indexes, transactions, NoSQL, Redis, and database operations.
+- [Messaging and event streaming](../09-data-engineering/messaging-and-event-streaming.md) — queues versus retained logs, Kafka/RabbitMQ, delivery semantics, retries, and overload behavior.
+- [Observability and telemetry](../10-cloud-devops/observability-and-telemetry.md) — OpenTelemetry, Prometheus, SRE signals/SLOs, and actionable alerting.
+- [HLD interview guide](../14-interview-prep/system-design-interviews/hld-interview-guide.md) — requirements, estimation, interfaces, architecture, trade-offs, and a worked URL-shortener design.
+- [HLD and LLD interview preparation hub](../14-interview-prep/system-design-interviews/README.md) — a complete study sequence and links to both interview guides.

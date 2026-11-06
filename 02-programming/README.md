@@ -15,6 +15,10 @@ Choose a language and learn its runtime and memory model, then study testing, de
 - Testing and debugging
 - Clean code and concurrency
 
+## Focused notes
+
+- [Software design and code quality](software-design/README.md) — clean code, SOLID and related principles, the GoF patterns, refactoring, and application/system patterns.
+
 ## Related domains
 
 [Foundations](../01-foundations/README.md) · [Data structures and algorithms](../03-data-structures-algorithms/README.md) · [System design](../04-system-design/README.md) · [Projects and labs](../13-projects-labs/README.md)

@@ -19,4 +19,7 @@ Start with SQL and data modeling; continue through query optimization and batch 
 
 [Foundations](../01-foundations/README.md) · [System design](../04-system-design/README.md) · [Machine learning](../05-machine-learning/README.md) · [Cloud and DevOps](../10-cloud-devops/README.md)
 
-Notes will be indexed here as they are added.
+## Notes
+
+- [SQL and database engineering](database-design/README.md) — SQL practice, relational/document/Redis modeling, database internals, PostgreSQL operations, query-performance labs, engine comparisons, and OLAP/warehousing.
+- [Messaging and event streaming](messaging-and-event-streaming.md) — Kafka, RabbitMQ, queues and logs, event contracts, delivery guarantees, retries, and backpressure.

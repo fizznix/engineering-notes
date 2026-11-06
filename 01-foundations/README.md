@@ -20,4 +20,6 @@ Start with computer architecture, memory, and operating-system fundamentals; con
 
 [Programming](../02-programming/README.md) · [System design](../04-system-design/README.md) · [Data engineering](../09-data-engineering/README.md) · [Cloud and DevOps](../10-cloud-devops/README.md)
 
-Notes will be indexed here as they are added.
+## Database note
+
+- [Database design and data stores](../09-data-engineering/database-design/README.md) — a guided path through data modeling, relational and document databases, Redis, and distributed database operations.

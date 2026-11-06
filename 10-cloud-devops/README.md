@@ -24,4 +24,6 @@ Begin with cloud architecture and containers; progress through orchestration and
 
 [Foundations](../01-foundations/README.md) · [System design](../04-system-design/README.md) · [Data engineering](../09-data-engineering/README.md) · [Security](../11-security/README.md)
 
-Further cloud and DevOps notes will be indexed here as they are added.
+## Notes
+
+- [Observability and telemetry](observability-and-telemetry.md) — instrumentation and signal design with OpenTelemetry, Prometheus metrics/alerting, and SRE-based reliability objectives.

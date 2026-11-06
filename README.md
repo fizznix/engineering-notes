@@ -31,12 +31,16 @@ The goal is not to collect disconnected Markdown files. Notes should explain ide
 These are starting points; follow links between domains as your questions require.
 
 - **Software engineering:** [Foundations](01-foundations/README.md) → [Programming](02-programming/README.md) → [Data structures and algorithms](03-data-structures-algorithms/README.md) → [System design](04-system-design/README.md) → [Cloud and DevOps](10-cloud-devops/README.md) and [Security](11-security/README.md).
+- **Software design and code quality:** [Programming](02-programming/README.md) → [software design and code quality notes](02-programming/software-design/README.md) → [System design](04-system-design/README.md) for service and system boundaries.
 - **Algorithms:** [Programming](02-programming/README.md) → [Data structures and algorithms](03-data-structures-algorithms/README.md) → [Interview preparation](14-interview-prep/README.md).
 - **System design:** [Foundations](01-foundations/README.md) → [System design](04-system-design/README.md) → [Data engineering](09-data-engineering/README.md), [Cloud and DevOps](10-cloud-devops/README.md), and [Security](11-security/README.md).
+- **SQL and database engineering:** [Foundations](01-foundations/README.md) → [SQL and database engineering](09-data-engineering/database-design/README.md) → SQL practice, relational modeling, internals, PostgreSQL operations, query-performance labs, engine comparison, and OLAP/warehousing.
+- **Messaging and observability:** [Messaging and event streaming](09-data-engineering/messaging-and-event-streaming.md) → [Observability and telemetry](10-cloud-devops/observability-and-telemetry.md) for delivery guarantees, instrumentation, SLOs, metrics, logs, traces, and alerting.
 - **Container deployment:** [Docker, Kubernetes, and Helm learning package](10-cloud-devops/containers-orchestration/README.md) → [hands-on learning path](10-cloud-devops/containers-orchestration/learning-path.md) → [system design](04-system-design/README.md) and [security](11-security/README.md).
 - **ML and generative AI:** [Foundations](01-foundations/README.md) → [Machine learning](05-machine-learning/README.md) → [Generative AI](06-generative-ai/README.md) → [Agentic AI](07-agentic-ai/README.md).
 - **Agentic AI:** [Generative AI](06-generative-ai/README.md) → [Agentic AI](07-agentic-ai/README.md) → [System design](04-system-design/README.md) and [Security](11-security/README.md).
 - **Inference engineering:** [Foundations](01-foundations/README.md) → [Machine learning](05-machine-learning/README.md) → [Generative AI](06-generative-ai/README.md) → [Inference engineering learning map](08-inference-engineering/MAP.md) and [topic index](08-inference-engineering/README.md).
+- **HLD and LLD interviews:** [System design](04-system-design/README.md) → [HLD/LLD interview preparation](14-interview-prep/system-design-interviews/README.md) → the optional [AI/ML system design interview track](14-interview-prep/system-design-interviews/ai-ml-system-design-interviews.md).
 
 ## Discover and connect concepts
 
